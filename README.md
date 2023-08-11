@@ -1,3 +1,6 @@
+                               ПРОСТО РАЗЛИЧНЫЕ ПОЛЕЗНЫЕ ССЫЛКИ
+
+
 https://cloudblogs.microsoft.com/opensource/2021/09/02/onnx-runtime-web-running-your-machine-learning-model-in-browser/ (ONNX)
 
 https://blog.logrocket.com/ai-in-browsers-comparing-tensorflow-onnx-and-webdnn-for-image-classification/ (Сравнение скорости запуска различных сред , включая WASM и WebGL)
