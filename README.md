@@ -15,4 +15,6 @@ https://onnxruntime.ai/ (Поддержка runtime-ов для разных Я�
 
 https://github.com/dakenf/onnxruntime-node-gpu (Решение для запуска Onnx-JS на GPU)
 
+https://www.youtube.com/watch?v=zgOGZgAPUjQ (презентация на тему WASM-threads, и там же рассказывается разница между Worker'ами и WASM'ом)
+
 
